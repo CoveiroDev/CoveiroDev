@@ -19,5 +19,5 @@ Olá! Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação,
 - Itch.io: [CoveiroDev](https://corveiro.itch.io/)
 - Email: seuemail@example.com
 
-![GIF](link_para_o_seu_gif)
+![GIF](https://38.media.tumblr.com/8172e0131c2c70066ed7367d258efec7/tumblr_ncjhd2QXEs1qb7g9eo1_500.gif)
 
