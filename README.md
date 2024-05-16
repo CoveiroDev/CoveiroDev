@@ -1,6 +1,6 @@
 ### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
+![github][(https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)](https://img.shields.io/badge/CoveiroDev-blueviolet.svg?style=for-the-badge&logo=X&logoColor)
 
 <!--
 **CoveiroDev/CoveiroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
