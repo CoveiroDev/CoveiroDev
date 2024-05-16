@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![github](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
 
 <!--
 **CoveiroDev/CoveiroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
