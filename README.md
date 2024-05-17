@@ -1,8 +1,9 @@
 # Bem-vindo ao Meu Perfil do GitHub 👋
 
+![GIF]([https://38.media.tumblr.com/8172e0131c2c70066ed7367d258efec7/tumblr_ncjhd2QXEs1qb7g9eo1_500.gif](https://giphy.com/gifs/animation-loop-visualtimmy-27UtynCENEhLgiAmik))
+
 ## Sobre Mim
 Olá! Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação, aprendizado de máquina e desenvolvimento de software. 
-![GIF](https://38.media.tumblr.com/8172e0131c2c70066ed7367d258efec7/tumblr_ncjhd2QXEs1qb7g9eo1_500.gif)
 
 ## Habilidades
 - Desenvolvimento Web
