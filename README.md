@@ -1,15 +1,13 @@
 # Bem-vindo ao Meu Perfil do GitHub 👋
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <div style="flex: 1;">
     <h2>Sobre Mim</h2>
     <p>Olá! Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação, aprendizado de máquina e desenvolvimento de software.</p>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div style="flex-shrink: 0; text-align: right;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhtc3M1bzA2MnIzczN3ZnN6bTJ3cjE2emZlaHpod20wOGkwc3MzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27UtynCENEhLgiAmik/giphy.gif" alt="GIF">
   </div>
-</div>
-
 
 ## Habilidades
 - Desenvolvimento Web
