@@ -1,5 +1,10 @@
 # Bem-vindo ao Meu Perfil do GitHub 👋
 
+<h1 align="center">Hi 👋, I'm YangVk</h1>
+<h3 align="center">A passionate Game Development Degree From Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+
+
 
 ## Sobre mim
 Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação, aprendizado de máquina e desenvolvimento de software
