@@ -19,7 +19,7 @@ Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação, apren
 - <a href="https://github.com/CoveiroDev/PoKe-Zoo" style="color:purple">PokeZoo</a>: É um projeto para a faculdade, um jogo educativo sobre animais do zoologico de Bauru, inspirado no jogo Pokémon.
 
 ## Contato
-- LinkedIn: [Seu LinkedIn](link_para_o_seu_perfil)
+- LinkedIn: [João Pedro Avelino](https://www.linkedin.com/in/coveirodev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Itch.io: [CoveiroDev](https://corveiro.itch.io/)
 - Email: aranhudo123@gmail.com
 
