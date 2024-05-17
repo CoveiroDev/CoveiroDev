@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm João Pedro</h1>
 <h3 align="center">A passionate Game Development Degree From Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhtc3M1bzA2MnIzczN3ZnN6bTJ3cjE2emZlaHpod20wOGkwc3MzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27UtynCENEhLgiAmik/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc0NW9va2JjYm5qZXV2ZTcwM2ducDFyaDlmbGRudjluZWppdmx6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Td3X7Kc32YtmSmbXFB/giphy.gif">
 
 
 ## Sobre mim
