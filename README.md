@@ -21,6 +21,6 @@ Sou João Pedro, um entusiasta da tecnologia apaixonado por codificação, apren
 ## Contato
 - LinkedIn: [João Pedro Avelino](https://www.linkedin.com/in/coveirodev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Itch.io: [CoveiroDev](https://corveiro.itch.io/)
-- Email: aranhudo123@gmail.com
+- Email: jpcontact554@gmail.com
 
 
